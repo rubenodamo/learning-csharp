@@ -1,0 +1,15 @@
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Program Flow/ForLoops/bin/Debug/net7.0/ForLoops
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Program Flow/ForLoops/bin/Debug/net7.0/ForLoops.deps.json
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Program Flow/ForLoops/bin/Debug/net7.0/ForLoops.runtimeconfig.json
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Program Flow/ForLoops/bin/Debug/net7.0/ForLoops.dll
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Program Flow/ForLoops/bin/Debug/net7.0/ForLoops.pdb
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Program Flow/ForLoops/obj/Debug/net7.0/ForLoops.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Program Flow/ForLoops/obj/Debug/net7.0/ForLoops.AssemblyInfoInputs.cache
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Program Flow/ForLoops/obj/Debug/net7.0/ForLoops.AssemblyInfo.cs
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Program Flow/ForLoops/obj/Debug/net7.0/ForLoops.csproj.CoreCompileInputs.cache
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Program Flow/ForLoops/obj/Debug/net7.0/ForLoops.sourcelink.json
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Program Flow/ForLoops/obj/Debug/net7.0/ForLoops.dll
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Program Flow/ForLoops/obj/Debug/net7.0/refint/ForLoops.dll
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Program Flow/ForLoops/obj/Debug/net7.0/ForLoops.pdb
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Program Flow/ForLoops/obj/Debug/net7.0/ForLoops.genruntimeconfig.cache
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Program Flow/ForLoops/obj/Debug/net7.0/ref/ForLoops.dll

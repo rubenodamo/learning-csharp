@@ -1,0 +1,15 @@
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Program Flow/BreakContinue/bin/Debug/net7.0/BreakContinue
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Program Flow/BreakContinue/bin/Debug/net7.0/BreakContinue.deps.json
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Program Flow/BreakContinue/bin/Debug/net7.0/BreakContinue.runtimeconfig.json
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Program Flow/BreakContinue/bin/Debug/net7.0/BreakContinue.dll
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Program Flow/BreakContinue/bin/Debug/net7.0/BreakContinue.pdb
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Program Flow/BreakContinue/obj/Debug/net7.0/BreakContinue.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Program Flow/BreakContinue/obj/Debug/net7.0/BreakContinue.AssemblyInfoInputs.cache
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Program Flow/BreakContinue/obj/Debug/net7.0/BreakContinue.AssemblyInfo.cs
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Program Flow/BreakContinue/obj/Debug/net7.0/BreakContinue.csproj.CoreCompileInputs.cache
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Program Flow/BreakContinue/obj/Debug/net7.0/BreakContinue.sourcelink.json
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Program Flow/BreakContinue/obj/Debug/net7.0/BreakContinue.dll
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Program Flow/BreakContinue/obj/Debug/net7.0/refint/BreakContinue.dll
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Program Flow/BreakContinue/obj/Debug/net7.0/BreakContinue.pdb
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Program Flow/BreakContinue/obj/Debug/net7.0/BreakContinue.genruntimeconfig.cache
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Program Flow/BreakContinue/obj/Debug/net7.0/ref/BreakContinue.dll

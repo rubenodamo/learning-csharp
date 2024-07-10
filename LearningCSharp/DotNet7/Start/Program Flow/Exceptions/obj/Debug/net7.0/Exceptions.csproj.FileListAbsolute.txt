@@ -1,0 +1,15 @@
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Program Flow/Exceptions/bin/Debug/net7.0/Exceptions
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Program Flow/Exceptions/bin/Debug/net7.0/Exceptions.deps.json
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Program Flow/Exceptions/bin/Debug/net7.0/Exceptions.runtimeconfig.json
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Program Flow/Exceptions/bin/Debug/net7.0/Exceptions.dll
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Program Flow/Exceptions/bin/Debug/net7.0/Exceptions.pdb
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Program Flow/Exceptions/obj/Debug/net7.0/Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Program Flow/Exceptions/obj/Debug/net7.0/Exceptions.AssemblyInfoInputs.cache
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Program Flow/Exceptions/obj/Debug/net7.0/Exceptions.AssemblyInfo.cs
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Program Flow/Exceptions/obj/Debug/net7.0/Exceptions.csproj.CoreCompileInputs.cache
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Program Flow/Exceptions/obj/Debug/net7.0/Exceptions.sourcelink.json
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Program Flow/Exceptions/obj/Debug/net7.0/Exceptions.dll
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Program Flow/Exceptions/obj/Debug/net7.0/refint/Exceptions.dll
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Program Flow/Exceptions/obj/Debug/net7.0/Exceptions.pdb
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Program Flow/Exceptions/obj/Debug/net7.0/Exceptions.genruntimeconfig.cache
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Program Flow/Exceptions/obj/Debug/net7.0/ref/Exceptions.dll
