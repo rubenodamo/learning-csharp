@@ -1,0 +1,15 @@
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Overview/Operators/bin/Debug/net7.0/Operators
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Overview/Operators/bin/Debug/net7.0/Operators.deps.json
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Overview/Operators/bin/Debug/net7.0/Operators.runtimeconfig.json
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Overview/Operators/bin/Debug/net7.0/Operators.dll
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Overview/Operators/bin/Debug/net7.0/Operators.pdb
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Overview/Operators/obj/Debug/net7.0/Operators.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Overview/Operators/obj/Debug/net7.0/Operators.AssemblyInfoInputs.cache
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Overview/Operators/obj/Debug/net7.0/Operators.AssemblyInfo.cs
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Overview/Operators/obj/Debug/net7.0/Operators.csproj.CoreCompileInputs.cache
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Overview/Operators/obj/Debug/net7.0/Operators.sourcelink.json
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Overview/Operators/obj/Debug/net7.0/Operators.dll
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Overview/Operators/obj/Debug/net7.0/refint/Operators.dll
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Overview/Operators/obj/Debug/net7.0/Operators.pdb
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Overview/Operators/obj/Debug/net7.0/Operators.genruntimeconfig.cache
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Overview/Operators/obj/Debug/net7.0/ref/Operators.dll

@@ -1,0 +1,16 @@
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Overview/Comments/bin/Debug/net7.0/Comments
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Overview/Comments/bin/Debug/net7.0/Comments.deps.json
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Overview/Comments/bin/Debug/net7.0/Comments.runtimeconfig.json
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Overview/Comments/bin/Debug/net7.0/Comments.dll
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Overview/Comments/bin/Debug/net7.0/Comments.pdb
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Overview/Comments/bin/Debug/net7.0/Comments.xml
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Overview/Comments/obj/Debug/net7.0/Comments.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Overview/Comments/obj/Debug/net7.0/Comments.AssemblyInfoInputs.cache
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Overview/Comments/obj/Debug/net7.0/Comments.AssemblyInfo.cs
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Overview/Comments/obj/Debug/net7.0/Comments.csproj.CoreCompileInputs.cache
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Overview/Comments/obj/Debug/net7.0/Comments.sourcelink.json
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Overview/Comments/obj/Debug/net7.0/Comments.dll
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Overview/Comments/obj/Debug/net7.0/refint/Comments.dll
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Overview/Comments/obj/Debug/net7.0/Comments.pdb
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Overview/Comments/obj/Debug/net7.0/Comments.genruntimeconfig.cache
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Overview/Comments/obj/Debug/net7.0/ref/Comments.dll

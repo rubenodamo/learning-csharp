@@ -1,0 +1,15 @@
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Overview/VarsAndData/obj/Debug/net7.0/VarsAndData.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Overview/VarsAndData/obj/Debug/net7.0/VarsAndData.AssemblyInfoInputs.cache
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Overview/VarsAndData/obj/Debug/net7.0/VarsAndData.AssemblyInfo.cs
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Overview/VarsAndData/obj/Debug/net7.0/VarsAndData.csproj.CoreCompileInputs.cache
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Overview/VarsAndData/obj/Debug/net7.0/VarsAndData.sourcelink.json
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Overview/VarsAndData/bin/Debug/net7.0/VarsAndData
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Overview/VarsAndData/bin/Debug/net7.0/VarsAndData.deps.json
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Overview/VarsAndData/bin/Debug/net7.0/VarsAndData.runtimeconfig.json
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Overview/VarsAndData/bin/Debug/net7.0/VarsAndData.dll
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Overview/VarsAndData/bin/Debug/net7.0/VarsAndData.pdb
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Overview/VarsAndData/obj/Debug/net7.0/VarsAndData.dll
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Overview/VarsAndData/obj/Debug/net7.0/refint/VarsAndData.dll
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Overview/VarsAndData/obj/Debug/net7.0/VarsAndData.pdb
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Overview/VarsAndData/obj/Debug/net7.0/VarsAndData.genruntimeconfig.cache
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Overview/VarsAndData/obj/Debug/net7.0/ref/VarsAndData.dll
