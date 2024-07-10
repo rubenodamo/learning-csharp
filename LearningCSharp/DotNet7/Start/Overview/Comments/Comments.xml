@@ -10,7 +10,7 @@
             <summary>
             This is the main sample application function
             </summary>
-            <param name = 'args'> An array of string arguments fromt he command line </param>
+            <param name = 'args'> An array of string arguments from the command line </param>
             <returns>
             no return value
             </returns>
