@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Program Flow/Exceptions/Exceptions.csproj": {}
+    "/workspaces/learning-csharp/LearningCSharp/DotNet7/Start/Program Flow/Exceptions/Exceptions.csproj": {}
   },
   "projects": {
-    "/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Program Flow/Exceptions/Exceptions.csproj": {
+    "/workspaces/learning-csharp/LearningCSharp/DotNet7/Start/Program Flow/Exceptions/Exceptions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Program Flow/Exceptions/Exceptions.csproj",
+        "projectUniqueName": "/workspaces/learning-csharp/LearningCSharp/DotNet7/Start/Program Flow/Exceptions/Exceptions.csproj",
         "projectName": "Exceptions",
-        "projectPath": "/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Program Flow/Exceptions/Exceptions.csproj",
-        "packagesPath": "/Users/rubenodamo/.nuget/packages/",
-        "outputPath": "/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Program Flow/Exceptions/obj/",
+        "projectPath": "/workspaces/learning-csharp/LearningCSharp/DotNet7/Start/Program Flow/Exceptions/Exceptions.csproj",
+        "packagesPath": "/home/codespace/.nuget/packages/",
+        "outputPath": "/workspaces/learning-csharp/LearningCSharp/DotNet7/Start/Program Flow/Exceptions/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/rubenodamo/.nuget/NuGet/NuGet.Config"
+          "/home/codespace/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -53,12 +53,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.linux-x64",
+              "version": "[7.0.20, 7.0.20]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.303/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.301/RuntimeIdentifierGraph.json"
         }
       }
     }

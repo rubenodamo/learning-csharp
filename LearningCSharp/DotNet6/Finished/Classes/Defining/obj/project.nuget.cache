@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "xrNHiGsmzStEvrDVEHZbGqOV/bmH/qTGC+B/8AL/v5rBu+Dp1B6mOPWAmz9WFefuUZ702Z5CHkSSOJBbGn1E8w==",
+  "dgSpecHash": "BjoaiT2nHPY=",
   "success": true,
-  "projectFilePath": "/Users/cjmarini/Documents/Git/Lynda/LearningCSharp/Finished/Classes/Defining/Defining.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/workspaces/learning-csharp/LearningCSharp/DotNet6/Finished/Classes/Defining/Defining.csproj",
+  "expectedPackageFiles": [
+    "/home/codespace/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.31/microsoft.netcore.app.host.linux-x64.6.0.31.nupkg.sha512"
+  ],
   "logs": []
 }

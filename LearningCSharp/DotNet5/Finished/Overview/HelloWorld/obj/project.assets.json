@@ -1,36 +1,36 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {}
+    "net5.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    "net7.0": []
+    "net5.0": []
   },
   "packageFolders": {
-    "/Users/cjmarini/.nuget/packages/": {}
+    "/home/codespace/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/cjmarini/Documents/Git/Lynda/LearningCSharp/Finished/Overview/HelloWorld/HelloWorld.csproj",
+      "projectUniqueName": "/workspaces/learning-csharp/LearningCSharp/DotNet5/Finished/Overview/HelloWorld/HelloWorld.csproj",
       "projectName": "HelloWorld",
-      "projectPath": "/Users/cjmarini/Documents/Git/Lynda/LearningCSharp/Finished/Overview/HelloWorld/HelloWorld.csproj",
-      "packagesPath": "/Users/cjmarini/.nuget/packages/",
-      "outputPath": "/Users/cjmarini/Documents/Git/Lynda/LearningCSharp/Finished/Overview/HelloWorld/obj/",
+      "projectPath": "/workspaces/learning-csharp/LearningCSharp/DotNet5/Finished/Overview/HelloWorld/HelloWorld.csproj",
+      "packagesPath": "/home/codespace/.nuget/packages/",
+      "outputPath": "/workspaces/learning-csharp/LearningCSharp/DotNet5/Finished/Overview/HelloWorld/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/cjmarini/.nuget/NuGet/NuGet.Config"
+        "/home/codespace/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
-        "net7.0"
+        "net5.0"
       ],
       "sources": {
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
+        "net5.0": {
+          "targetAlias": "net5.0",
           "projectReferences": {}
         }
       },
@@ -38,11 +38,16 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
-      "net7.0": {
-        "targetAlias": "net7.0",
+      "net5.0": {
+        "targetAlias": "net5.0",
         "imports": [
           "net461",
           "net462",
@@ -54,12 +59,26 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.linux-x64",
+            "version": "[5.0.17, 5.0.17]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/7.0.102/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.301/RuntimeIdentifierGraph.json"
       }
     }
   }

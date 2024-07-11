@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "CABdZRMbdUI+5KZuOuU98FhUnotWynwTTV5VlIoK4rhLhaLOly2Se22xApaswIuChz7QZaQTBHsoSDGH/jIbTw==",
+  "dgSpecHash": "6Wug4lOhJho=",
   "success": true,
-  "projectFilePath": "/Users/cjmarini/Documents/Git/Lynda/LearningCSharp/Finished/Overview/HelloWorld/HelloWorld.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/workspaces/learning-csharp/LearningCSharp/DotNet6/Finished/Overview/HelloWorld/HelloWorld.csproj",
+  "expectedPackageFiles": [
+    "/home/codespace/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.31/microsoft.netcore.app.host.linux-x64.6.0.31.nupkg.sha512"
+  ],
   "logs": []
 }

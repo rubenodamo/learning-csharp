@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/Users/rubenodamo/.nuget/packages/": {}
+    "/home/codespace/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Overview/HelloWorld/HelloWorld.csproj",
+      "projectUniqueName": "/workspaces/learning-csharp/LearningCSharp/DotNet7/Start/Overview/HelloWorld/HelloWorld.csproj",
       "projectName": "HelloWorld",
-      "projectPath": "/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Overview/HelloWorld/HelloWorld.csproj",
-      "packagesPath": "/Users/rubenodamo/.nuget/packages/",
-      "outputPath": "/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Overview/HelloWorld/obj/",
+      "projectPath": "/workspaces/learning-csharp/LearningCSharp/DotNet7/Start/Overview/HelloWorld/HelloWorld.csproj",
+      "packagesPath": "/home/codespace/.nuget/packages/",
+      "outputPath": "/workspaces/learning-csharp/LearningCSharp/DotNet7/Start/Overview/HelloWorld/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/rubenodamo/.nuget/NuGet/NuGet.Config"
+        "/home/codespace/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.303/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.301/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

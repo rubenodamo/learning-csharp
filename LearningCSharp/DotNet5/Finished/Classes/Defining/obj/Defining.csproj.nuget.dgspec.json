@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/cjmarini/Documents/Git/Lynda/LearningCSharp/DotNet5/Finished/Classes/Defining/Defining.csproj": {}
+    "/workspaces/learning-csharp/LearningCSharp/DotNet5/Finished/Classes/Defining/Defining.csproj": {}
   },
   "projects": {
-    "/Users/cjmarini/Documents/Git/Lynda/LearningCSharp/DotNet5/Finished/Classes/Defining/Defining.csproj": {
+    "/workspaces/learning-csharp/LearningCSharp/DotNet5/Finished/Classes/Defining/Defining.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/cjmarini/Documents/Git/Lynda/LearningCSharp/DotNet5/Finished/Classes/Defining/Defining.csproj",
+        "projectUniqueName": "/workspaces/learning-csharp/LearningCSharp/DotNet5/Finished/Classes/Defining/Defining.csproj",
         "projectName": "Defining",
-        "projectPath": "/Users/cjmarini/Documents/Git/Lynda/LearningCSharp/DotNet5/Finished/Classes/Defining/Defining.csproj",
-        "packagesPath": "/Users/cjmarini/.nuget/packages/",
-        "outputPath": "/Users/cjmarini/Documents/Git/Lynda/LearningCSharp/DotNet5/Finished/Classes/Defining/obj/",
+        "projectPath": "/workspaces/learning-csharp/LearningCSharp/DotNet5/Finished/Classes/Defining/Defining.csproj",
+        "packagesPath": "/home/codespace/.nuget/packages/",
+        "outputPath": "/workspaces/learning-csharp/LearningCSharp/DotNet5/Finished/Classes/Defining/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/cjmarini/.nuget/NuGet/NuGet.Config"
+          "/home/codespace/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -32,6 +32,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -54,7 +59,7 @@
               "version": "[5.0.0, 5.0.0]"
             },
             {
-              "name": "Microsoft.NETCore.App.Host.osx-x64",
+              "name": "Microsoft.NETCore.App.Host.linux-x64",
               "version": "[5.0.17, 5.0.17]"
             },
             {
@@ -67,7 +72,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/7.0.202/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.301/RuntimeIdentifierGraph.json"
         }
       }
     }

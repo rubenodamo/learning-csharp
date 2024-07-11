@@ -1,0 +1,15 @@
+/workspaces/learning-csharp/LearningCSharp/DotNet7/Start/Strings/Parsing/obj/Debug/net7.0/Parsing.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/learning-csharp/LearningCSharp/DotNet7/Start/Strings/Parsing/obj/Debug/net7.0/Parsing.AssemblyInfoInputs.cache
+/workspaces/learning-csharp/LearningCSharp/DotNet7/Start/Strings/Parsing/obj/Debug/net7.0/Parsing.AssemblyInfo.cs
+/workspaces/learning-csharp/LearningCSharp/DotNet7/Start/Strings/Parsing/obj/Debug/net7.0/Parsing.csproj.CoreCompileInputs.cache
+/workspaces/learning-csharp/LearningCSharp/DotNet7/Start/Strings/Parsing/obj/Debug/net7.0/Parsing.sourcelink.json
+/workspaces/learning-csharp/LearningCSharp/DotNet7/Start/Strings/Parsing/bin/Debug/net7.0/Parsing
+/workspaces/learning-csharp/LearningCSharp/DotNet7/Start/Strings/Parsing/bin/Debug/net7.0/Parsing.deps.json
+/workspaces/learning-csharp/LearningCSharp/DotNet7/Start/Strings/Parsing/bin/Debug/net7.0/Parsing.runtimeconfig.json
+/workspaces/learning-csharp/LearningCSharp/DotNet7/Start/Strings/Parsing/bin/Debug/net7.0/Parsing.dll
+/workspaces/learning-csharp/LearningCSharp/DotNet7/Start/Strings/Parsing/bin/Debug/net7.0/Parsing.pdb
+/workspaces/learning-csharp/LearningCSharp/DotNet7/Start/Strings/Parsing/obj/Debug/net7.0/Parsing.dll
+/workspaces/learning-csharp/LearningCSharp/DotNet7/Start/Strings/Parsing/obj/Debug/net7.0/refint/Parsing.dll
+/workspaces/learning-csharp/LearningCSharp/DotNet7/Start/Strings/Parsing/obj/Debug/net7.0/Parsing.pdb
+/workspaces/learning-csharp/LearningCSharp/DotNet7/Start/Strings/Parsing/obj/Debug/net7.0/Parsing.genruntimeconfig.cache
+/workspaces/learning-csharp/LearningCSharp/DotNet7/Start/Strings/Parsing/obj/Debug/net7.0/ref/Parsing.dll
