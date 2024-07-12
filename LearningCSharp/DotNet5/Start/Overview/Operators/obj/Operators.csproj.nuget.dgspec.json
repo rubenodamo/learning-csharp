@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/workspaces/learning-csharp/LearningCSharp/DotNet5/Start/Overview/Operators/Operators.csproj": {}
+    "/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet5/Start/Overview/Operators/Operators.csproj": {}
   },
   "projects": {
-    "/workspaces/learning-csharp/LearningCSharp/DotNet5/Start/Overview/Operators/Operators.csproj": {
+    "/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet5/Start/Overview/Operators/Operators.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspaces/learning-csharp/LearningCSharp/DotNet5/Start/Overview/Operators/Operators.csproj",
+        "projectUniqueName": "/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet5/Start/Overview/Operators/Operators.csproj",
         "projectName": "Operators",
-        "projectPath": "/workspaces/learning-csharp/LearningCSharp/DotNet5/Start/Overview/Operators/Operators.csproj",
-        "packagesPath": "/home/codespace/.nuget/packages/",
-        "outputPath": "/workspaces/learning-csharp/LearningCSharp/DotNet5/Start/Overview/Operators/obj/",
+        "projectPath": "/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet5/Start/Overview/Operators/Operators.csproj",
+        "packagesPath": "/Users/rubenodamo/.nuget/packages/",
+        "outputPath": "/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet5/Start/Overview/Operators/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/codespace/.nuget/NuGet/NuGet.Config"
+          "/Users/rubenodamo/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -59,7 +59,7 @@
               "version": "[5.0.0, 5.0.0]"
             },
             {
-              "name": "Microsoft.NETCore.App.Host.linux-x64",
+              "name": "Microsoft.NETCore.App.Host.osx-x64",
               "version": "[5.0.17, 5.0.17]"
             },
             {
@@ -72,7 +72,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.301/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.303/RuntimeIdentifierGraph.json"
         }
       }
     }
