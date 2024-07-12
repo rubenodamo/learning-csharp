@@ -1,0 +1,15 @@
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Classes/StringRep/bin/Debug/net7.0/StringRep
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Classes/StringRep/bin/Debug/net7.0/StringRep.deps.json
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Classes/StringRep/bin/Debug/net7.0/StringRep.runtimeconfig.json
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Classes/StringRep/bin/Debug/net7.0/StringRep.dll
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Classes/StringRep/bin/Debug/net7.0/StringRep.pdb
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Classes/StringRep/obj/Debug/net7.0/StringRep.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Classes/StringRep/obj/Debug/net7.0/StringRep.AssemblyInfoInputs.cache
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Classes/StringRep/obj/Debug/net7.0/StringRep.AssemblyInfo.cs
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Classes/StringRep/obj/Debug/net7.0/StringRep.csproj.CoreCompileInputs.cache
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Classes/StringRep/obj/Debug/net7.0/StringRep.sourcelink.json
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Classes/StringRep/obj/Debug/net7.0/StringRep.dll
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Classes/StringRep/obj/Debug/net7.0/refint/StringRep.dll
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Classes/StringRep/obj/Debug/net7.0/StringRep.pdb
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Classes/StringRep/obj/Debug/net7.0/StringRep.genruntimeconfig.cache
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Classes/StringRep/obj/Debug/net7.0/ref/StringRep.dll

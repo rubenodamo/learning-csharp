@@ -1,0 +1,15 @@
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Classes/Defining/bin/Debug/net7.0/Defining
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Classes/Defining/bin/Debug/net7.0/Defining.deps.json
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Classes/Defining/bin/Debug/net7.0/Defining.runtimeconfig.json
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Classes/Defining/bin/Debug/net7.0/Defining.dll
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Classes/Defining/bin/Debug/net7.0/Defining.pdb
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Classes/Defining/obj/Debug/net7.0/Defining.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Classes/Defining/obj/Debug/net7.0/Defining.AssemblyInfoInputs.cache
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Classes/Defining/obj/Debug/net7.0/Defining.AssemblyInfo.cs
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Classes/Defining/obj/Debug/net7.0/Defining.csproj.CoreCompileInputs.cache
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Classes/Defining/obj/Debug/net7.0/Defining.sourcelink.json
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Classes/Defining/obj/Debug/net7.0/Defining.dll
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Classes/Defining/obj/Debug/net7.0/refint/Defining.dll
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Classes/Defining/obj/Debug/net7.0/Defining.pdb
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Classes/Defining/obj/Debug/net7.0/Defining.genruntimeconfig.cache
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Classes/Defining/obj/Debug/net7.0/ref/Defining.dll

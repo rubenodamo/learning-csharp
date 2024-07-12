@@ -1,0 +1,15 @@
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Classes/Modifiers/bin/Debug/net7.0/Modifiers
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Classes/Modifiers/bin/Debug/net7.0/Modifiers.deps.json
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Classes/Modifiers/bin/Debug/net7.0/Modifiers.runtimeconfig.json
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Classes/Modifiers/bin/Debug/net7.0/Modifiers.dll
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Classes/Modifiers/bin/Debug/net7.0/Modifiers.pdb
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Classes/Modifiers/obj/Debug/net7.0/Modifiers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Classes/Modifiers/obj/Debug/net7.0/Modifiers.AssemblyInfoInputs.cache
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Classes/Modifiers/obj/Debug/net7.0/Modifiers.AssemblyInfo.cs
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Classes/Modifiers/obj/Debug/net7.0/Modifiers.csproj.CoreCompileInputs.cache
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Classes/Modifiers/obj/Debug/net7.0/Modifiers.sourcelink.json
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Classes/Modifiers/obj/Debug/net7.0/Modifiers.dll
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Classes/Modifiers/obj/Debug/net7.0/refint/Modifiers.dll
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Classes/Modifiers/obj/Debug/net7.0/Modifiers.pdb
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Classes/Modifiers/obj/Debug/net7.0/Modifiers.genruntimeconfig.cache
+/Users/rubenodamo/Desktop/University/Year-In-Industry/learning-csharp/LearningCSharp/DotNet7/Start/Classes/Modifiers/obj/Debug/net7.0/ref/Modifiers.dll
